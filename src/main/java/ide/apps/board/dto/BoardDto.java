@@ -24,4 +24,5 @@ public class BoardDto implements Serializable {
 
     public String regDate;
     
+    
 }
